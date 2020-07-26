@@ -1,1 +1,1 @@
-# Extracting-stock-sentiment-from-news-headlines
+# Extracting-stock-market-sentiment-from-news-headlines
